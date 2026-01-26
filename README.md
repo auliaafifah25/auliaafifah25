@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aulia Afifah</h1>
-<h3 align="center">A passionate data scientist from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Aulia</h1>
 
 <p align="left">
 </p>
